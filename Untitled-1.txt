@@ -1,0 +1,88 @@
+<mainpage-leftcolumn-start />
+<div style="background-color: #5c5854; border-radius: 4px; box-shadow: 2px 2px 1px 0px rgba(0,0,0,0.75);">
+<div style="width:100%; margin-bottom:7px; height:1px; background:#5C5854;"></div>
+<div style="border-radius:3px 3px 3px 5px;border:1px solid #1e1b17;margin-left:7px;margin-right:7px;">
+
+[[File:TV_logo2.gif|500px|center]]
+<div style="width:70%;margin-left:auto;margin-right:auto;font-size:150%;text-align:center;padding:10px;background:#584f44;border:7px solid #39372e;border-bottom-width:9px; color: #CeCeCe; border-top-width:3px;border-radius: 6px 6px 0px 0px;">A collaborative website built by fans for the television series '''''[[Cowboy Bebop]]''''' that [[Help:Contents|anyone can edit]]. The wiki format allows anyone to create or edit any article, so anyone can [[Cowboy Bebop Wiki:Community Portal|help]] create this site. '''Please look at our [[Wiki Rules|wiki rules]] before editing.'''
+
+<div style="text-align:center;font-size:85%;">Currently housing [[Special:Statistics|{{NUMBEROFARTICLES}}]] articles and and [[Special:NewFiles|'''{{NUMBEROFFILES}}''']] pictures.</div></div>
+
+{| width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;"
+!{{Header|Contents}}
+|-
+!{{CharPortal}}
+|-
+![[Character List|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">Character List</span>]][[Cowboy Bebop Sessions|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">About Bebop</span>]][[Session_List|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">Session List</span>]][[The Movie|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">The Movie</span>]][[Music|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">Music</span>]][[Culture|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">Culture</span>]][[Cowboy Bebop (Netflix)|<span style="{{linear-gradient|top|#D59A63, #584F44}}; color: #D3DBE3; display: inline-block; padding: 0 6px; border-radius: 3px; margin: 0 0.1em;">Netflix</span>]]
+|-
+!<div style="width:99%;margin:auto; margin-bottom:10px; height:1px; background:#1e1b17; border-bottom:1px solid #7a7672;"></div>
+|-
+!{{MainPageSlider}}
+|-
+|{{Featured video}}
+|-
+!{{Header|Featured Article}}
+|-
+| style="color: #000;" |{{Featured article}}
+|-
+!{{Header|Featured Image}}
+|-
+| style="color: #000;" |{{Featured image}}
+|-
+!{{Header|Big Shot News}}
+|-
+| style="color: #000;" |{{News}}
+
+|}
+</div>
+<div style="width:100%; margin-top:7px; height:1px; background:#5C5854;"></div>
+</div>
+<mainpage-endcolumn />
+<mainpage-rightcolumn-start />
+<!-- Right Content //-->
+{| cellpadding="2" cellspacing="5" style="width: 99%; box-shadow: 2px 2px 1px 0px rgba(31,31,31,1); margin-top: 10px; vertical-align: top; background-color: #5c5854; border: 1px solid #1f1f1f; color: #CeCeCe; border-radius: 5px 5px 5px 5px;"
+|-
+![[Image:Bebop_Registration.png|280px|link=Bebop|alt=The Bebop's Registration|]]
+|-
+!{{Header|Quote of the Week}}
+|-
+| style="color: #CeCeCe;" |{{QotW}}
+|-
+!{{Header|Did You Know...?}}
+|-
+| style="color: #CeCeCe;" |{{DYK}}
+|-
+!
+|-
+| style="color: #CeCeCe;" |
+|-
+!{{Header|Community Links}}
+|-
+| style="color: #CeCeCe;" |
+{{Community Links}}
+
+|}
+
+{| cellpadding="2" cellspacing="5" style="width: 99%; box-shadow: 2px 2px 1px 0px rgba(31,31,31,1); margin-top: 10px; vertical-align: top; background-color: #5c5854; border: 1px solid ##1f1f1f; border-radius: 5px 5px 5px 5px;"
+!{{Header|Affiliates}}
+|-
+![[File:Code_Geass_Wiki-wordmark.png|centre|280px|link=http://codegeass.wikia.com/wiki/Code_Geass_Wiki]]
+|-
+!
+|-
+![[File:Macross wiki wordmark.png|centre|280px|link=http://macross.wikia.com/wiki/The_Macross_Wiki]]
+|-
+!
+|-
+![[File:Banana Fish Wiki-wordmark.png|centre|280px|link=https://banana-fish.wikia.com]]
+|-
+!
+|}
+<mainpage-endcolumn />
+<br style="clear:both;" />
+{{w:animangafooter}}
+__NOTOC__<!-- This removes the table of contents -->
+__NOEDITSECTION__<!-- This removes the section edit links -->
+
+<!-- Please note that Wikia protection policy advises against the protection of this page -->
+[[Category:Browse]]

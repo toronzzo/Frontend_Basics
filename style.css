@@ -1,0 +1,19 @@
+  body {  
+    background-image: url("https://4.img-dpreview.com/files/g/TS1120x1120~3388880.jpg");
+  }
+  h1 { 
+    color: rgb(140, 140, 140);
+  }
+  p {
+    color: rgb(140, 140, 140);
+  }
+  h2 {
+    color:rgb(140, 0, 0);
+  }
+
+ .bebop{
+    background-color: black;
+    color: whitesmoke;
+    border:1px solid whitesmoke;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ }
